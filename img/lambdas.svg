@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16.0px"
+   height="16.0px"
+   viewBox="0 0 16.0 16.0"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="favicon.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview829"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="18.645874"
+     inkscape:cx="10.699418"
+     inkscape:cy="0.80446752"
+     inkscape:window-width="1920"
+     inkscape:window-height="1211"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid892" />
+  </sodipodi:namedview>
+  <defs
+     id="defs824" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3748"
+       transform="matrix(2.7976444,0,0,2.7976444,-20.744726,-20.550048)"
+       inkscape:export-filename="/home/giselle/cmu/logic-website/img/lambdas.png"
+       inkscape:export-xdpi="696.13251"
+       inkscape:export-ydpi="696.13251">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:18.3445px;line-height:1.25;font-family:sans-serif;fill:#6d6e71;fill-opacity:1;stroke:none;stroke-width:0.458611"
+         x="0.65121663"
+         y="14.96876"
+         id="text2129-2"><tspan
+           sodipodi:role="line"
+           id="tspan2127-3"
+           x="0.65121663"
+           y="14.96876"
+           style="fill:#6d6e71;fill-opacity:1;stroke-width:0.458611">λ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:18.3445px;line-height:1.25;font-family:sans-serif;fill:#c41230;fill-opacity:1;stroke:none;stroke-width:0.458611"
+         x="4.6782646"
+         y="14.96876"
+         id="text2129"><tspan
+           sodipodi:role="line"
+           id="tspan2127"
+           x="4.6782646"
+           y="14.96876"
+           style="fill:#c41230;fill-opacity:1;stroke-width:0.458611">λ</tspan></text>
+    </g>
+  </g>
+</svg>
